@@ -2,7 +2,7 @@
 
 ## HI, i am jassi and this is my very ~~cool~~ **Kewl** readme about me!
 
-> yes there are my amazing stats which are recorded by hackatime/wakatime
+> yes these are my amazing stats which were recorded by hackatime/wakatime
 
 ![time](https://github-readme-stats.hackclub.dev/api/wakatime?username=62121&api_domain=hackatime.hackclub.com&theme=one_dark_pro&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=5)
 <br>
