@@ -1,8 +1,4 @@
-@-moz-document domain("github.com") {
-  .markdown-body table th, .markdown-body table td {
-    word-break: break-all;
-  }
-}
+
 
 ## HI, i am jassi and this is my very ~~cool~~ **Kewl** readme about me!
 
