@@ -1,22 +1,6 @@
-<div>
 
-<style>
-    table {
-        width: 100%;
-    }
-    @font-face {
-      font-family: JetbrainsMONO; 
-      src: url(assets/JetBrainsMonoNL-Regular.ttf); 
-    }
-    div {
-      font-family: JetbrainsMONO;
-    }
-    span {
-      font-size: 120%
-    }
-</style>
 
-## HI, i am jassi and this is my very ~~cool~~ <span>Kewl</span> readme about me!
+## HI, i am jassi and this is my very ~~cool~~ **Kewl** readme about me!
 
 > yes there are my amazing stats which are recorded by hackatime/wakatime
 
@@ -26,9 +10,9 @@ hopefully this was informative ↑
 
 ## Other stuff which i do
 
-<span>none</span>, i only like programming
+**none**, i only like programming
 
-## <span>Kewl</span> Stuff Which I use:
+## **Kewl** Stuff Which I use:
 
 > NOTE: The Logos Were Made By Sawaratsuki: https://x.com/sawaratsuki1004
 
@@ -42,5 +26,3 @@ hopefully this was informative ↑
 
 > thank you for reading this, <br>
 > jassi out
-
-</div>
