@@ -1,5 +1,3 @@
-
-
 ## HI, i am jassi and this is my very ~~cool~~ **Kewl** readme about me!
 
 > yes there are my amazing stats which are recorded by hackatime/wakatime
@@ -16,13 +14,14 @@ hopefully this was informative ↑
 
 > NOTE: The Logos Were Made By Sawaratsuki: https://x.com/sawaratsuki1004
 
-| Stuff I Like            |                              Art Of Stuff!                               |
-| ----------------------- | :----------------------------------------------------------------------: |
-| C my beloved            |         <img src="assets/C.png" alt="cool C image" width="200">          |
-| HTML is kewl too        |      <img src="assets/HTML.png" alt="cool HTML image" width="200">       |
-| Tailwind >> Vanilla CSS | <img src="assets/Tailwindcss.png" alt="cool Tailwind image" width="200"> |
-| dont forget node        |   <img src="assets/Node.js.png" alt="cool Node.js image" width="200">    |
-| my favourite IDE        |    <img src="assets/VSCode.png" alt="cool VSCode image" width="200">     |
+| Stuff I Like                               |                              Art Of Stuff!                               |
+| ------------------------------------------ | :----------------------------------------------------------------------: |
+| C my beloved                               |         <img src="assets/C.png" alt="cool C image" width="200">          |
+| HTML is kewl too                           |      <img src="assets/HTML.png" alt="cool HTML image" width="200">       |
+| Tailwind >> Vanilla CSS                    | <img src="assets/Tailwindcss.png" alt="cool Tailwind image" width="200"> |
+| dont forget node                           |   <img src="assets/Node.js.png" alt="cool Node.js image" width="200">    |
+| my favourite IDE                           |    <img src="assets/VSCode.png" alt="cool VSCode image" width="200">     |
+| what you are (most likely) reading this on |    <img src="assets/Github.png" alt="cool VSCode image" width="200">     |
 
 > thank you for reading this, <br>
 > jassi out
