@@ -21,7 +21,7 @@ hopefully this was informative ↑
 | Tailwind >> Vanilla CSS                    | <img src="assets/Tailwindcss.png" alt="cool Tailwind image" width="200"> |
 | dont forget node                           |   <img src="assets/Node.js.png" alt="cool Node.js image" width="200">    |
 | my favourite IDE                           |    <img src="assets/VSCode.png" alt="cool VSCode image" width="200">     |
-| what you are (most likely) reading this on |    <img src="assets/Github.png" alt="cool VSCode image" width="200">     |
+| what you are (most likely) reading this on |    <img src="assets/GitHub.png" alt="cool Github image" width="200">     |
 
 > thank you for reading this, <br>
 > jassi out
