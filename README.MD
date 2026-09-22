@@ -19,7 +19,6 @@ hopefully this was informative ↑
 | C my beloved                               |         <img src="assets/C.png" alt="cool C image" width="200">          |
 | HTML is kewl too                           |      <img src="assets/HTML.png" alt="cool HTML image" width="200">       |
 | Tailwind >> Vanilla CSS                    | <img src="assets/Tailwindcss.png" alt="cool Tailwind image" width="200"> |
-| dont forget node                           |   <img src="assets/Node.js.png" alt="cool Node.js image" width="200">    |
 | my favourite IDE                           |    <img src="assets/VSCode.png" alt="cool VSCode image" width="200">     |
 | what you are (most likely) reading this on |    <img src="assets/GitHub.png" alt="cool Github image" width="200">     |
 
