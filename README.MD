@@ -2,7 +2,7 @@
 
 > yes these are my amazing stats which were recorded by hackatime/wakatime
 
-![time](https://github-readme-stats.hackclub.dev/api/wakatime?username=62121&api_domain=hackatime.hackclub.com&theme=rose_pine_dawn&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=6)
+![time](https://github-readme-stats.hackclub.dev/api/wakatime?username=62121&api_domain=hackatime.hackclub.com&theme=rose_pine_dawn&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=5)
 <br>
 hopefully this was informative ↑
 
