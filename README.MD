@@ -10,7 +10,9 @@ hopefully this was informative ↑
 
 I hit the gym ig, nothing more than that and programming
 
-## **Kewl** Stuff Which I use:
+<details>
+
+  <summary> **Kewl** Stuff Which I use: </summary>
 
 > NOTE: The Logos Were Made By Sawaratsuki: https://x.com/sawaratsuki1004
 
@@ -23,6 +25,8 @@ I hit the gym ig, nothing more than that and programming
 | what you are (most likely) reading this on               |    <img src="assets/GitHub.png" alt="cool Github image" width="200">     |
 | they recognise and fund aspiring devs like me, thank you |  <img src="assets/HackClub.png" alt="cool HackClub image" width="200">   |
 | jsx is fun with vite, also i can steal stuff from react bits ;) |  <img src="assets/React.png" alt="cool React image" width="200">   |
+
+</details>
 
 > thank you for reading this, <br>
 > jassi out
